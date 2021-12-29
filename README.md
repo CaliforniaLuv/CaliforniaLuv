@@ -1,4 +1,4 @@
-![wave](https://capsule-render.vercel.app/api?type=wave&color=febe54&height=200&text=JinSungLee)
+![wave](https://capsule-render.vercel.app/api?type=wave&color=8E503D&height=200&text=JinSungLee&fontColor=919191)
 
 <h1 align="center">🛠 Tech Stack 🛠</h1>
 <br>
