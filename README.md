@@ -14,6 +14,7 @@
    <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
    <img src="https://img.shields.io/badge/node.js-6DB33F?style=for-the-badge&logo=node.js&logoColor=black">
    <img src="https://img.shields.io/badge/express-181717?style=for-the-badge&logo=express&logoColor=white">
+      <img src="https://img.shields.io/badge/next.js-181717?style=for-the-badge&logo=next.js&logoColor=white">
    <img src="https://img.shields.io/badge/Redux-white?style=for-the-badge&logo=Redux&logoColor=ff69b4">
   
    <h3 align="center">DB</h3>
