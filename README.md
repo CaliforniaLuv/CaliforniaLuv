@@ -37,9 +37,9 @@
   <a href="https://velog.io/@milkyway">
     <img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@woo0_hooo"/>
   </a>
-  <a href="https://www.instagram.com/chewbacca.96/">
+<!--   <a href="https://www.instagram.com/chewbacca.96/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/woo0_hooo/"/>
-  </a>
+  </a> -->
   <a href="mailto:caifornialove.96@gamil.com">
     <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/>
   </a>
