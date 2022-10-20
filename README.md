@@ -44,3 +44,5 @@
     <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/>
   </a>
 </div>
+
+![Snake animation](https://github.com/CaliforniaLuv/CaliforniaLuv/blob/output/github-contribution-grid-snake.svg)
