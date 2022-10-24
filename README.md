@@ -19,6 +19,7 @@
   
    <h3 align="center">DB</h3>
    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+   <img src="https://img.shields.io/badge/postgresql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">
   
    <h3 align="center">Tool</h3>
    <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=Git&logoColor=white">
