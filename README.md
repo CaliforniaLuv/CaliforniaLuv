@@ -11,8 +11,8 @@
    <h3 align="center">framework & library</h3>
    <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
    <img src="https://img.shields.io/badge/next.js-181717?style=for-the-badge&logo=next.js&logoColor=white">
-   <img src="https://img.shields.io/badge/tailwindcss-0F172A?style=for-the-badge&logo=tailwindcss>
-   <img src="https://img.shields.io/badge/react_query-0F172A?style=for-the-badge&logo=react-query>
+   <img src="https://img.shields.io/badge/tailwindcss-0F172A?style=for-the-badge&logo=tailwindcss">
+   <img src="https://img.shields.io/badge/react_query-0F172A?style=for-the-badge&logo=react-query">
    
   
 </div>
